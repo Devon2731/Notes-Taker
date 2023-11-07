@@ -1,28 +1,15 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "This application helps user take and record notes",
+  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Devon Whitaker",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "axsios": "^0.27.2",
-    "dotenv": "^16.0.1",
-    "express": "^4.16.4",
-    "process": "^0.11.10",
-    "request": "^2.88.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Devon2731/Notes-Taker.git"
-  },
-  "keywords": [
-    "notes-taker",
-    "node.js",
-    "express.js"
-  ]
+    "express": "^4.18.2",
+    "uniqid": "^5.4.0"
+  }
 }
