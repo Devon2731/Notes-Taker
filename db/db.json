@@ -1,1 +1,14 @@
-[]
+{
+  "notes": [
+    {
+      "title": "Favorite Teams",
+      "text": "Oregon Ducks \nCincinnati Bengals\nManchester United ",
+      "id": "183e86f3-8fce-41d3-809c-328e9fe0075a"
+    },
+    {
+      "title": "Grocery list",
+      "text": "Eggs \nBacon \nApples \nPaper towels ",
+      "id": "5e70acec-8075-4c2a-97b1-8446f002cc7d"
+    }
+  ]
+}
